@@ -9,3 +9,4 @@ const div = document.querySelector('div');
 if(div){
     div.innerText
 }
+
